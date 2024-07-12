@@ -1,0 +1,19 @@
+{
+  "name": "tsgame-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && npx -y raylib"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "raylib": "^0.14.0",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.16.2",
+    "typescript": "^5.5.3"
+  }
+
+}
